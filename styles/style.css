@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://fondosmil.com/fondo/4066.jpg);
+}
+h1{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    background-color: black;
+}
+thead{
+    color: white;
+}
+table{
+    color: white;
+}
+a{ 
+    color: rgb(203, 98, 235);
+    font-size: 20px;
+}
